@@ -1,0 +1,1 @@
+.NET plugin for Microsoft Outlook for reporting spam or abuse emails to services such as SpamCop.
